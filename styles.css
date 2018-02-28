@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+header {
+    display: inline;
+    text-align: center;
+    color: green;
+
+}
+
+.menu {
+    display: inline-block;
+}
+
+nav {
+
+}
+
+p {
+    display: inline-block;
+    text-align: right;
+    position: relative;
+    float: right;
+    padding: 10px;
+    font-family: Arial;
+    font-size: 13px;
+    text-decoration: none;
+
+}
+
+p:hover {
+
+}
